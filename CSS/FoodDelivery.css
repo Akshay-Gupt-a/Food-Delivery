@@ -1,5 +1,5 @@
 body{
-    background-image: url("/Images/FoodDeliveryBackground.jpg");
+    background-image: url("https://github.com/Akshay-Gupt-a/Food-Delivery/blob/master/Images/FoodDeliveryBackground.jpg");
     background-color: #cccccc; /* Used if the image is unavailable */
     height: 500px; /* You must set a specified height */
     background-position: center; /* Center the image */
